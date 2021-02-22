@@ -1,0 +1,6 @@
+nume: Ale
+prenume: Ale
+email: ale@gmail.com
+telefon: 0712321212
+username: ale
+parola: ale
